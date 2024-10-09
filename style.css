@@ -1,0 +1,20 @@
+hr.mt-5 {
+    border: 0;
+    height: 2.5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    background-image: linear-gradient(to right, #f00, #ff0, #0f0, #0ff, #00f, #f0f, #f00);
+}
+
+.box {
+    background: linear-gradient(135deg, #2b86e4, #5cc6ff);
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
